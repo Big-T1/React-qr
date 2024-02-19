@@ -5,7 +5,7 @@ import './Landing.css'
 const Landing = () => {
   return (
     <>
-    <div class="component">
+    <div className="component">
       <img src={img} alt="" />
         <h1 className='improve'>Improve your front-end skills by building projects
         </h1>
